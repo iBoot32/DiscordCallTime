@@ -1,0 +1,6 @@
+C:\Users\yello\source\repos\DiscordCallTime\DiscordCallTime\obj\Debug\DiscordCallTime.csproj.CoreCompileInputs.cache
+C:\Users\yello\source\repos\DiscordCallTime\DiscordCallTime\bin\Debug\DiscordCallTime.exe.config
+C:\Users\yello\source\repos\DiscordCallTime\DiscordCallTime\bin\Debug\DiscordCallTime.exe
+C:\Users\yello\source\repos\DiscordCallTime\DiscordCallTime\bin\Debug\DiscordCallTime.pdb
+C:\Users\yello\source\repos\DiscordCallTime\DiscordCallTime\obj\Debug\DiscordCallTime.exe
+C:\Users\yello\source\repos\DiscordCallTime\DiscordCallTime\obj\Debug\DiscordCallTime.pdb
